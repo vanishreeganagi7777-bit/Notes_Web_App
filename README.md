@@ -99,22 +99,11 @@ http://localhost:3000
 
 ## 📸 Screenshots
 
-### Home Page
 
-> Add your screenshot here
 
-```text
-images/home-page.png
-```
-
----
-
-### Create Note
-
-> Add your screenshot here
 
 ![Home Page](output/homepage.png)
-![Creating Notes](output/creating_notes.png)
+![Creating Notes](output/Creating_Notes.png)
 ![Home Page](output/files.png)
 ![Home Page](output/File_data.png)
 
